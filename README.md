@@ -1,4 +1,4 @@
-"You Are Working At SecurityBug As a Penetration Tester, And At Your'e Coffe Break, Joy, Your'e Friend, Wanted To Challenge You
+"You Are Working At SecurityBug As a Penetration Tester, And At Your'e Coffee Break, Joy, Your'e Friend, Wanted To Challenge You
 With Some Shell Script He Made Only For You.
 
 Joy Made A Shell Script With A Username And A Password, So You Can Log Back To Your Account At Your Company.
