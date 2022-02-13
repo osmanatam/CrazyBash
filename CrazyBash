@@ -4,7 +4,7 @@ bold=$(tput bold)
 normal=$(tput sgr0)
 
 
-echo -e '\e[3;33mYou are working at SecurityBug as a penetration tester, and at youre coffe break, Joy, youre friend, wanted to challenge you.
+echo -e '\e[3;33mYou are working at SecurityBug as a penetration tester, and at youre coffee break, Joy, youre friend, wanted to challenge you.
 
 Joy made a shell script with a username and a password just for you, so you can log back to your account at your company.
 
